@@ -315,7 +315,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- **Author**: [Your Name]
+- **Author**: Md Ibrahim Hassan
 - **Email**: [mdibrahimhassan@gmail.com](mailto:mdibrahimhassan@gmail.com)
 - **GitHub**: [IbrahimHass](https://github.com/Ibrahimhass)
 
