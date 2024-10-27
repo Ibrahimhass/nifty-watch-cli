@@ -316,8 +316,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 - **Author**: [Your Name]
-- **Email**: [your.email@example.com](mailto:mdibrahimhassan@gmail.com)
-- **GitHub**: [yourusername](https://github.com/Ibrahimhass)
+- **Email**: [mdibrahimhassan@gmail.com](mailto:mdibrahimhassan@gmail.com)
+- **GitHub**: [IbrahimHass](https://github.com/Ibrahimhass)
 
 Feel free to open an issue if you have any questions or suggestions.
 
